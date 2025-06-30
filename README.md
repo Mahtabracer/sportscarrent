@@ -1,6 +1,6 @@
-# Rev X Rent
+# Sportscar Rent
 
-Rev X Rent is a modern, full-featured car rental platform built with Next.js, React, and MongoDB. It offers a seamless experience for both customers and administrators, supporting car rentals, user management, order processing, and more. The platform is designed for flexibility, scalability, and ease of use, with a focus on both individual and group rentals.
+Sportscar Rent is a modern, full-featured car rental platform built with Next.js, React, and MongoDB. It offers a seamless experience for both customers and administrators, supporting car rentals, user management, order processing, and more. The platform is designed for flexibility, scalability, and ease of use, with a focus on both individual and group rentals.
 
 ## 🚗 New: Pickup Request System & Admin Panel
 - **Pickup Request System:** Anyone can request a car pickup (with or without an account). Requests include customer info, pickup/drop locations, time, car category, and headcount.
@@ -368,7 +368,7 @@ Rev X Rent is a modern, full-featured car rental platform built with Next.js, Re
 ## Project Structure
 
 ```
-Rev X Rent/
+Sportscar Rent/
 ├── components/             # Reusable React components
 │   ├── CategoryTabs.js     # Category tabs navigation
 │   ├── FilterBar.js        # Advanced filtering and sorting component
@@ -769,7 +769,7 @@ Clear the user's wishlist.
 1. Clone the repository
 ```bash
 git clone https://github.com/nahmxp/Rev-X-Rent.git
-cd Rev-X-Rent
+cd Sportscar-Rent
 ```
 
 2. Install dependencies
