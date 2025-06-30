@@ -165,7 +165,7 @@ export default function Home() {
           {featuredCars.length > 0 ? (
             <ProductSlider products={featuredCars} />
           ) : (
-            <div className="product-slider-empty">No featured cars available</div>
+            <div className="product-slider-empty">No featured cars available!</div>
           )}
         </section>
 
@@ -220,7 +220,7 @@ export default function Home() {
           {newArrivals.length > 0 ? (
             <ProductSlider products={newArrivals} />
           ) : (
-            <div className="product-slider-empty">No new arrivals available</div>
+            <div className="product-slider-empty">No new arrivals available!</div>
           )}
         </section>
 
